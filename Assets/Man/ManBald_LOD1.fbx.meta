@@ -824,7 +824,144 @@ ModelImporter:
     rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
-    animationImportWarnings: 
+    animationImportWarnings: "\nClip 'all_in_one' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'civilian_spineA_c_jnt' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_wrist_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_shoulder_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_wrist_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'idle' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'lookatwatch' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\nClip 'stretch' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_shoulder_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'walk' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'jog' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'run' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_shoulder_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'greet' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'wave' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'sit' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_wrist_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_wrist_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'drink' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\nClip 'worklaptop' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\nClip 'eat' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\nClip 'sittostand' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_wrist_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_wrist_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'answercall' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'shock' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_shoulder_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_rt_jnt'
+      has translation animation that will be discarded.\n\nClip 'shocktorun' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_shoulder_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'afraidrun' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'hit' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\nClip 'death' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_shoulder_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'revive' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_wrist_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_shoulder_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_wrist_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'dive' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'civilian_spineA_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'civilian_shoulder_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_wrist_lf_jnt'
+      has translation animation that will be discarded.\n\t'civilian_shoulder_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_elbow_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_wrist_rt_jnt'
+      has translation animation that will be discarded.\n\t'civilian_pelvis_c_jnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
@@ -840,7 +977,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.03
+    globalScale: 0.032
     meshCompression: 0
     addColliders: 1
     useSRGBMaterialColor: 1
@@ -886,8 +1023,959 @@ ModelImporter:
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
-    human: []
-    skeleton: []
+    human:
+    - boneName: civilian_COG_c_jnt
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_thigh_lf_jnt
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_thigh_rt_jnt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_knee_lf_jnt
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_knee_rt_jnt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_ankle_lf_jnt
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_ankle_rt_jnt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_spineB_c_jnt
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_spineC_c_jnt
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_neck_c_jnt
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_head_c_jnt
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_clavicle_lf_jnt
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_clavicle_rt_jnt
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_shoulder_lf_jnt
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_shoulder_rt_jnt
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_elbow_lf_jnt
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_elbow_rt_jnt
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_wrist_lf_jnt
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_wrist_rt_jnt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_ball_lf_jnt
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_ball_rt_jnt
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_eye_lf_jnt
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_eye_rt_jnt
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_jaw_c_jnt
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_thumbA_lf_jnt
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_thumbB_lf_jnt
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_thumbC_lf_jnt
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_indexA_lf_jnt
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_indexB_lf_jnt
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_indexC_lf_jnt
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_middleA_lf_jnt
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_middleB_lf_jnt
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_middleC_lf_jnt
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_ringA_lf_jnt
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_ringB_lf_jnt
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_ringC_lf_jnt
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_pinkyA_lf_jnt
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_pinkyB_lf_jnt
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_pinkyC_lf_jnt
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_thumbA_rt_jnt
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_thumbB_rt_jnt
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_thumbC_rt_jnt
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_indexA_rt_jnt
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_indexB_rt_jnt
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_indexC_rt_jnt
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_middleA_rt_jnt
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_middleB_rt_jnt
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_middleC_rt_jnt
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_ringA_rt_jnt
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_ringB_rt_jnt
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_ringC_rt_jnt
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_pinkyA_rt_jnt
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_pinkyB_rt_jnt
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_pinkyC_rt_jnt
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: civilian_spineD_c_jnt
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ManBald_LOD1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: U3DRoot0
+      parentName: ManBald_LOD1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: persp1Shape
+      parentName: U3DRoot0
+      position: {x: 0.6815266, y: 2.602458, z: 4.665293}
+      rotation: {x: 0.9964382, y: -0.0032049078, z: -0.07142558, w: -0.04471077}
+      scale: {x: 1, y: 1, z: 1}
+    - name: U3DRoot
+      parentName: U3DRoot0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: persp1Shape 1
+      parentName: U3DRoot
+      position: {x: 0.6815266, y: 2.602458, z: 4.665293}
+      rotation: {x: 0.9964382, y: -0.0032049122, z: -0.07142557, w: -0.044710834}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LOD1
+      parentName: U3DRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head_low
+      parentName: LOD1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head_lowShape0
+      parentName: head_low
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyes_low
+      parentName: LOD1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyes_lowShape1
+      parentName: eyes_low
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: teeth_low
+      parentName: LOD1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: teeth_lowShape2
+      parentName: teeth_low
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair_low
+      parentName: LOD1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair_lowShape
+      parentName: hair_low
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_low
+      parentName: LOD1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_lowShape3
+      parentName: body_low
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_low
+      parentName: LOD1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_lowShape4
+      parentName: leg_low
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_root_jnt
+      parentName: U3DRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_COG_c_jnt
+      parentName: civilian_root_jnt
+      position: {x: -0, y: 1.5938141, z: -0.009664165}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_spineA_c_jnt
+      parentName: civilian_COG_c_jnt
+      position: {x: 1.009742e-31, y: 0, z: 0}
+      rotation: {x: 0.43516216, y: -0.5573454, z: -0.43516216, w: 0.5573454}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_spineB_c_jnt
+      parentName: civilian_spineA_c_jnt
+      position: {x: -0.16806595, y: -0.00000003051758, z: 0}
+      rotation: {x: 1.4698707e-16, y: 4.549202e-17, z: -0.056801077, w: 0.99838555}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: civilian_spineC_c_jnt
+      parentName: civilian_spineB_c_jnt
+      position: {x: -0.18159562, y: 0, z: 3.637979e-15}
+      rotation: {x: 4.1792992e-16, y: 4.955661e-16, z: -0.028878056, w: 0.99958295}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_spineD_c_jnt
+      parentName: civilian_spineC_c_jnt
+      position: {x: -0.16178688, y: 0, z: -3.637979e-15}
+      rotation: {x: 1.3073107e-16, y: -3.3945817e-18, z: -0.03081867, w: 0.999525}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_neck_c_jnt
+      parentName: civilian_spineD_c_jnt
+      position: {x: -0.17312527, y: 0.010553701, z: 0}
+      rotation: {x: 0.9867834, y: -0.16204482, z: 3.4494916e-16, w: 1.1869835e-16}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: civilian_head_c_jnt
+      parentName: civilian_neck_c_jnt
+      position: {x: -0.16596706, y: 0.0002619629, z: 0}
+      rotation: {x: 1.1509754e-16, y: -2.0740637e-16, z: -0.15616848, w: 0.98773044}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: civilian_eyebrowC_lf_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.11684816, y: -0.11572729, z: -0.07900293}
+      rotation: {x: 0.49999997, y: -0.50000006, z: 0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eyebrowB_lf_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.12599586, y: -0.1373214, z: -0.055905327}
+      rotation: {x: 0.49999997, y: -0.50000006, z: 0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eyebrowA_lf_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.12254494, y: -0.14431639, z: -0.019896109}
+      rotation: {x: 0.49999997, y: -0.50000006, z: 0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eyebrowA_rt_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.12254494, y: -0.14431639, z: 0.019904}
+      rotation: {x: 0.49999997, y: -0.50000006, z: 0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eyebrowB_rt_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.12599586, y: -0.1373214, z: 0.05590401}
+      rotation: {x: 0.49999997, y: -0.50000006, z: 0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eyebrowC_rt_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.11684816, y: -0.11572729, z: 0.07900802}
+      rotation: {x: 0.49999997, y: -0.50000006, z: 0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eyelidUp_lf_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.09630397, y: -0.10501861, z: -0.047997817}
+      rotation: {x: -8.80679e-19, y: -8.806812e-19, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eye_rt_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.09630397, y: -0.1050186, z: 0.048000004}
+      rotation: {x: -8.80679e-19, y: -8.806812e-19, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eye_lf_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.09630397, y: -0.10501861, z: -0.047997817}
+      rotation: {x: -8.80679e-19, y: -8.806812e-19, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eyelidUp_rt_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.09630397, y: -0.1050186, z: 0.048000004}
+      rotation: {x: -8.80679e-19, y: -8.806812e-19, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eyelidDn_rt_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.09630397, y: -0.1050186, z: 0.048000004}
+      rotation: {x: -8.80679e-19, y: -8.806812e-19, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_eyelidDn_lf_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.09630397, y: -0.10501861, z: -0.047997817}
+      rotation: {x: -8.80679e-19, y: -8.806812e-19, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_jaw_c_jnt
+      parentName: civilian_head_c_jnt
+      position: {x: -0.02454883, y: 0.0051491666, z: -1.8189895e-15}
+      rotation: {x: 2.793049e-16, y: 2.0439584e-16, z: 0.8819439, w: 0.4713544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_clavicle_lf_jnt
+      parentName: civilian_spineD_c_jnt
+      position: {x: -0.09160964, y: -0.008294668, z: -0.029286815}
+      rotation: {x: -0.38536242, y: 0.60015047, z: 0.5852648, w: 0.38572058}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: civilian_shoulder_lf_jnt
+      parentName: civilian_clavicle_lf_jnt
+      position: {x: -0.2235692, y: 0.034186527, z: 0.002489563}
+      rotation: {x: -0.025883969, y: -0.0045387447, z: -0.18587515, w: 0.98222196}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: civilian_elbow_lf_jnt
+      parentName: civilian_shoulder_lf_jnt
+      position: {x: -0.35696697, y: 0, z: 0}
+      rotation: {x: -0.0028377615, y: 0.036761016, z: -0.017110333, w: 0.9991736}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: civilian_forearm_lf_jnt
+      parentName: civilian_elbow_lf_jnt
+      position: {x: -0.19662826, y: 0, z: 0}
+      rotation: {x: 6.9349124e-11, y: 0.0000000025801925, z: 5.184607e-10, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: civilian_wrist_lf_jnt
+      parentName: civilian_elbow_lf_jnt
+      position: {x: -0.39325646, y: 0, z: 0}
+      rotation: {x: 1.6780279e-10, y: -0.038034834, z: 0.000000004374548, w: 0.9992764}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: civilian_thumbA_lf_jnt
+      parentName: civilian_wrist_lf_jnt
+      position: {x: -0.05323463, y: -0.012648073, z: 0.054183997}
+      rotation: {x: 0.6286819, y: 0.29889578, z: -0.21863768, w: 0.683826}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_thumbB_lf_jnt
+      parentName: civilian_thumbA_lf_jnt
+      position: {x: -0.05170655, y: -0.00000006103516, z: 0}
+      rotation: {x: 0.00000059604633, y: 0.0000013709065, z: 0.029597484, w: 0.99956197}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: civilian_thumbC_lf_jnt
+      parentName: civilian_thumbB_lf_jnt
+      position: {x: -0.036820196, y: 0.00000001525879, z: 0}
+      rotation: {x: 0.0000000017533459, y: 0.000000009305811, z: -0.068469234, w: 0.99765325}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: civilian_indexA_lf_jnt
+      parentName: civilian_wrist_lf_jnt
+      position: {x: -0.11906233, y: 0.006257813, z: 0.043912392}
+      rotation: {x: -0.010361084, y: 0.006074903, z: 0.013256816, w: 0.99984}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: civilian_indexB_lf_jnt
+      parentName: civilian_indexA_lf_jnt
+      position: {x: -0.06149476, y: 0, z: 0}
+      rotation: {x: 0.000000006519256, y: -0.00000046612678, z: 0.03645331, w: 0.9993354}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: civilian_indexC_lf_jnt
+      parentName: civilian_indexB_lf_jnt
+      position: {x: -0.03682032, y: -0.00000012207032, z: 0}
+      rotation: {x: -6.774287e-11, y: -0.0000000016821703, z: -0.06846923, w: 0.99765325}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: civilian_middleA_lf_jnt
+      parentName: civilian_wrist_lf_jnt
+      position: {x: -0.1264786, y: 0.011402834, z: 0.010492953}
+      rotation: {x: -0.01670965, y: 0.0065780124, z: 0.025060551, w: 0.9995247}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: civilian_middleB_lf_jnt
+      parentName: civilian_middleA_lf_jnt
+      position: {x: -0.06536616, y: 0, z: 0}
+      rotation: {x: -0.00000011175866, y: -0.00000043865273, z: 0.038240496, w: 0.99926865}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: civilian_middleC_lf_jnt
+      parentName: civilian_middleB_lf_jnt
+      position: {x: -0.036820196, y: 0.00000012207032, z: -0.00000003051758}
+      rotation: {x: -7.0176037e-10, y: 6.7748207e-10, z: 0.011934455, w: 0.9999288}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_ringA_lf_jnt
+      parentName: civilian_wrist_lf_jnt
+      position: {x: -0.12042018, y: 0.0033560798, z: -0.025701756}
+      rotation: {x: -0.022644987, y: 0.010725346, z: 0.020755539, w: 0.99947053}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: civilian_ringB_lf_jnt
+      parentName: civilian_ringA_lf_jnt
+      position: {x: -0.061426643, y: 0, z: 0}
+      rotation: {x: 0.0000000372529, y: 0.00000017322598, z: 0.038319867, w: 0.9992656}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: civilian_ringC_lf_jnt
+      parentName: civilian_ringB_lf_jnt
+      position: {x: -0.034622807, y: 0, z: -0.00000001525879}
+      rotation: {x: 1.4978031e-10, y: -4.973403e-10, z: 0.038383026, w: 0.9992631}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: civilian_pinkyA_lf_jnt
+      parentName: civilian_wrist_lf_jnt
+      position: {x: -0.101881616, y: -0.008790041, z: -0.059114087}
+      rotation: {x: -0.011149866, y: 0.0007651967, z: 0.01692885, w: 0.99979424}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: civilian_pinkyB_lf_jnt
+      parentName: civilian_pinkyA_lf_jnt
+      position: {x: -0.040579718, y: 0, z: 0.0000000038146974}
+      rotation: {x: 0.000000038184208, y: 0.0000000548898, z: 0.038576074, w: 0.99925566}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_pinkyC_lf_jnt
+      parentName: civilian_pinkyB_lf_jnt
+      position: {x: -0.03034168, y: 0.00032940682, z: 0}
+      rotation: {x: 2.4754854e-11, y: -0.0000000012456126, z: 0.03838302, w: 0.9992631}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_bicep_lf_jnt
+      parentName: civilian_shoulder_lf_jnt
+      position: {x: -0.17848355, y: 0, z: -0.0000000038146974}
+      rotation: {x: 9.942993e-10, y: -3.0968522e-10, z: 0.00000000391941, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: civilian_clavicle_rt_jnt
+      parentName: civilian_spineD_c_jnt
+      position: {x: -0.09160866, y: -0.008294614, z: 0.029286824}
+      rotation: {x: 0.60015047, y: 0.38536248, z: -0.38572067, w: 0.5852647}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: civilian_shoulder_rt_jnt
+      parentName: civilian_clavicle_rt_jnt
+      position: {x: 0.2235682, y: -0.03418873, z: -0.0024893652}
+      rotation: {x: -0.025884029, y: -0.0045391615, z: -0.18587573, w: 0.98222184}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_elbow_rt_jnt
+      parentName: civilian_shoulder_rt_jnt
+      position: {x: 0.35696927, y: 0.0000004882813, z: -0.000000110626246}
+      rotation: {x: -0.0028376032, y: 0.036760062, z: -0.01710968, w: 0.99917364}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: civilian_forearm_rt_jnt
+      parentName: civilian_elbow_rt_jnt
+      position: {x: 0.19662727, y: -0.00000012207032, z: -0.00000042724614}
+      rotation: {x: -8.619785e-10, y: -0.000000004508072, z: -0.0000000050362154,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: civilian_wrist_rt_jnt
+      parentName: civilian_elbow_rt_jnt
+      position: {x: 0.3932545, y: -0.00000012207032, z: -0.0000007019044}
+      rotation: {x: 0.000000041077516, y: -0.03803483, z: -0.000000005163041, w: 0.9992764}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: civilian_thumbA_rt_jnt
+      parentName: civilian_wrist_rt_jnt
+      position: {x: 0.05323701, y: 0.012648561, z: -0.054183327}
+      rotation: {x: 0.62868536, y: 0.2988924, z: -0.21862552, w: 0.6838282}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: civilian_thumbB_rt_jnt
+      parentName: civilian_thumbA_rt_jnt
+      position: {x: 0.05170551, y: -0.00000085449227, z: -0.00000012207032}
+      rotation: {x: 0.000002771615, y: 0.000010251995, z: 0.029585902, w: 0.99956226}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: civilian_thumbC_rt_jnt
+      parentName: civilian_thumbB_rt_jnt
+      position: {x: 0.036819216, y: 0.00000004577637, z: 0.0000009765625}
+      rotation: {x: 0.00000002416203, y: -0.0000000025004059, z: -0.068469234, w: 0.99765325}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: civilian_indexA_rt_jnt
+      parentName: civilian_wrist_rt_jnt
+      position: {x: 0.11906166, y: -0.0062579354, z: -0.043912422}
+      rotation: {x: -0.010361135, y: 0.0060749035, z: 0.013256803, w: 0.99984}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: civilian_indexB_rt_jnt
+      parentName: civilian_indexA_rt_jnt
+      position: {x: 0.061496712, y: 0.0000020751954, z: 0.00000039672858}
+      rotation: {x: 0.00000041536978, y: -0.0000015473921, z: 0.03648871, w: 0.9993341}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_indexC_rt_jnt
+      parentName: civilian_indexB_rt_jnt
+      position: {x: 0.036820743, y: -0.0000009765625, z: 0.00000018310548}
+      rotation: {x: 0.000000011617899, y: 0.0000000014201867, z: -0.068469234, w: 0.99765325}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: civilian_middleA_rt_jnt
+      parentName: civilian_wrist_rt_jnt
+      position: {x: 0.1264792, y: -0.011400392, z: -0.010492647}
+      rotation: {x: -0.016709153, y: 0.006570148, z: 0.02508296, w: 0.9995242}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: civilian_middleB_rt_jnt
+      parentName: civilian_middleA_rt_jnt
+      position: {x: 0.06536439, y: -0.000001831055, z: -0.0000004882813}
+      rotation: {x: -0.00000012293455, y: 0.0000038146964, z: 0.038242776, w: 0.99926853}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_middleC_rt_jnt
+      parentName: civilian_middleB_rt_jnt
+      position: {x: 0.036821414, y: -0.0000012207032, z: 0.00000018310548}
+      rotation: {x: -2.194147e-10, y: 0.000000002049609, z: 0.011934451, w: 0.9999288}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_ringA_rt_jnt
+      parentName: civilian_wrist_rt_jnt
+      position: {x: 0.12042195, y: -0.003355713, z: 0.025702182}
+      rotation: {x: -0.02264625, y: 0.0107244, z: 0.020757377, w: 0.9994705}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: civilian_ringB_rt_jnt
+      parentName: civilian_ringA_rt_jnt
+      position: {x: 0.0614275, y: 0.0000009765625, z: 0.00000007629395}
+      rotation: {x: -0.000000052154057, y: -0.0000008139758, z: 0.03831943, w: 0.9992656}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: civilian_ringC_rt_jnt
+      parentName: civilian_ringB_rt_jnt
+      position: {x: 0.034620732, y: 0.0000004882813, z: -0.00000013732912}
+      rotation: {x: 0.0000000166424, y: 6.3812067e-10, z: 0.038383026, w: 0.9992631}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: civilian_pinkyA_rt_jnt
+      parentName: civilian_wrist_rt_jnt
+      position: {x: 0.10188215, y: 0.008792604, z: 0.059114374}
+      rotation: {x: -0.011147421, y: 0.0007581559, z: 0.01695969, w: 0.99979377}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: civilian_pinkyB_rt_jnt
+      parentName: civilian_pinkyA_rt_jnt
+      position: {x: 0.04057874, y: -0.000001953125, z: -0.00000010299684}
+      rotation: {x: 0.00000008288768, y: 0.0000024334286, z: 0.03853164, w: 0.9992574}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: civilian_pinkyC_rt_jnt
+      parentName: civilian_pinkyB_rt_jnt
+      position: {x: 0.030343633, y: -0.00032824714, z: 0.00000009155274}
+      rotation: {x: 0.000000012714091, y: 2.7852926e-10, z: 0.03838302, w: 0.9992631}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_bicep_rt_jnt
+      parentName: civilian_shoulder_rt_jnt
+      position: {x: 0.1784855, y: 0.000001831055, z: -0.00000014495852}
+      rotation: {x: 8.647988e-10, y: 3.1057104e-10, z: 0.000000001777413, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_pelvis_c_jnt
+      parentName: civilian_COG_c_jnt
+      position: {x: 2.019484e-31, y: 0, z: 0}
+      rotation: {x: 0.43516216, y: -0.5573454, z: -0.43516216, w: 0.5573454}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_thigh_lf_jnt
+      parentName: civilian_pelvis_c_jnt
+      position: {x: 0.14657034, y: -0.08313026, z: 0.12319274}
+      rotation: {x: 0.09850121, y: 0.9929758, z: 0.03678641, w: 0.054253235}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: civilian_knee_lf_jnt
+      parentName: civilian_thigh_lf_jnt
+      position: {x: -0.68551767, y: 0, z: 0}
+      rotation: {x: 0.9931338, y: 0.11698405, z: 9.1699026e-10, w: -1.0801482e-10}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: civilian_ankle_lf_jnt
+      parentName: civilian_knee_lf_jnt
+      position: {x: -0.58181274, y: 0, z: 0}
+      rotation: {x: 0.86250925, y: 0.5037337, z: 0.045722567, w: 0.015479797}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: civilian_ball_lf_jnt
+      parentName: civilian_ankle_lf_jnt
+      position: {x: -0.1844214, y: 0, z: 0}
+      rotation: {x: 6.927165e-10, y: 1.7853086e-10, z: -0.46444553, w: 0.8856017}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: civilian_toe_lf_jnt
+      parentName: civilian_ball_lf_jnt
+      position: {x: -0.095233284, y: -0.026289787, z: -0.00018263246}
+      rotation: {x: 0.00011537356, y: -0.00091719214, z: 0.13426748, w: 0.9909447}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: civilian_thigh_rt_jnt
+      parentName: civilian_pelvis_c_jnt
+      position: {x: 0.14656886, y: -0.08312993, z: -0.12319266}
+      rotation: {x: 0.99297565, y: -0.09850101, z: -0.054253794, w: 0.03678916}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: civilian_knee_rt_jnt
+      parentName: civilian_thigh_rt_jnt
+      position: {x: 0.68551826, y: -0.000000038146975, z: 0.00000012207032}
+      rotation: {x: 0.9931338, y: 0.116984054, z: 0.0000000013408465, w: -1.5794208e-10}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_ankle_rt_jnt
+      parentName: civilian_knee_rt_jnt
+      position: {x: 0.58181375, y: 0.00000016784671, z: 0.00000006103516}
+      rotation: {x: 0.8625094, y: 0.5037334, z: 0.04572369, w: 0.015477451}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: civilian_ball_rt_jnt
+      parentName: civilian_ankle_rt_jnt
+      position: {x: 0.18442142, y: 0.00000001525879, z: -0.00000016784671}
+      rotation: {x: 2.1850506e-10, y: 7.296646e-10, z: -0.46444553, w: 0.8856017}
+      scale: {x: 1, y: 1, z: 1}
+    - name: civilian_toe_rt_jnt
+      parentName: civilian_ball_rt_jnt
+      position: {x: 0.095233366, y: 0.026289804, z: 0.00018275455}
+      rotation: {x: 0.00011537321, y: -0.0009171928, z: 0.13426746, w: 0.9909447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head_lowShape
+      parentName: U3DRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyes_lowShape
+      parentName: U3DRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: teeth_lowShape
+      parentName: U3DRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_lowShape
+      parentName: U3DRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_lowShape
+      parentName: U3DRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head_mat0
+      parentName: U3DRoot0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eye_mat
+      parentName: U3DRoot0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head_mat
+      parentName: U3DRoot0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_mat
+      parentName: U3DRoot0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pants_mat
+      parentName: U3DRoot0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
@@ -895,7 +1983,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.03
+    globalScale: 0.032
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
